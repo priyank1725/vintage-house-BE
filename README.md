@@ -1,3 +1,9 @@
+# setup
+clone repo 
+and install packages 
+use npm i 
+add .env
+
 # vintage-house-BE
 create .env file and add two keys 
 1. DB_CONN ="your mongo db url"
